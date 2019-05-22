@@ -1,4 +1,3 @@
-# Encypt-Decypt
 <h1>EncryptionCode</h1>
 <p>Encypts a passsage into ascii numbers and playing cards</p>
 
